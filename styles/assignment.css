@@ -70,4 +70,70 @@ header{
 }
 .youtube{
    align-items: center;
+   border-radius: 20px;
+}
+.target{
+    margin-top: 150px;
+    display: flex;
+    gap: 24px;
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+.current{
+    text-align: center;
+   
+    
+}
+.section-title{
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.section-des{
+    text-align: center;
+}
+
+footer{
+    
+    background-image: url('../img/handshake.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    grid-area: auto;
+    width: 1140px;
+    height: 313px;
+}
+.support{
+    color: white;
+    text-align: center;
+    
+}
+.text-primary{
+    color: white;
+    text-align: center;
+}
+.container{
+    margin-top: 100p;
+    display: flex;
+    gap: 24px;
+    text-align: center;
+    margin: auto;
+}
+.sec-title{ 
+    display:flex
+    ;
+
+}
+.skills-container{
+    text-align: center;
+    display: flex;
+    gap: 24px;
+    max-width: auto;
+}
+.skill-des{
+    padding: 30px;
+}
+.footer{
+    text-align: right;
+    background-position: bottom right;
 }
