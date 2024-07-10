@@ -97,8 +97,8 @@ header{
 footer{
     
     background-image: url('../img/handshake.jpg');
-    background-repeat: no-repeat;
-    background-position: bottom;
+    
+    background-position: bottom right;
     grid-area: auto;
     width: 1140px;
     height: 313px;
@@ -129,10 +129,7 @@ footer{
     display: flex;
     gap: 24px;
     max-width: auto;
-    padding-left: 250px;
-    margin-top: 50px;
-    padding-inline: center;
-    margin: auto;
+    padding-left: 670px;
 }
 .skill-des{
     padding: 30px;
@@ -143,20 +140,22 @@ footer{
     padding-left: 500px;
 }
 .skill{
-    background-color:#FF4C1E -50%;
+    background-color:#ff967b;
     box-shadow: inset;
     width: 100;
     height: 100;
 
 }
 .skill-2{
-    background-color: #004CE8;
+    background-color: #7a9fe9;
     box-shadow: inset;
 
 }
 .skill-3{
-    background-color: #FFDF00 5%;
+    background-color: #faed98;
     box-shadow: inset;
 
 }
-
+.text-primary{
+    text-align: center;
+}
