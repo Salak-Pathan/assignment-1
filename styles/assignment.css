@@ -131,6 +131,8 @@ footer{
     max-width: auto;
     padding-left: 250px;
     margin-top: 50px;
+    padding-inline: center;
+    margin: auto;
 }
 .skill-des{
     padding: 30px;
@@ -138,6 +140,7 @@ footer{
 .footer{
     text-align: right;
     background-position: bottom right;
+    padding-left: 500px;
 }
 .skill{
     background-color:#FF4C1E -50%;
